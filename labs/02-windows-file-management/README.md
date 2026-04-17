@@ -1,6 +1,6 @@
 # Lab 2 - Windows File Management and Navigation
 
-## Objective
+## Objectivee
 - Practice navigating the Windows operating system and managing files using File Explorer and system settings.
 
 ## Lab Environment
