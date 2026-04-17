@@ -9,7 +9,7 @@
 
 ## Tools Used
 - File Explorer
-- File Explorer Option
+- File Explorer Options
 
 ## Tasks Completed
 
