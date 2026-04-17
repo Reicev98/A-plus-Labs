@@ -25,3 +25,33 @@
 ### 3. Display File Extensions
 - Disabled "Hide extensions for known file types"
 - Confirmed file extensions were visible
+
+### 4. Copy, Move and Delete Files
+- Copied files between folders
+- Moved files using drag and drop
+- Deleted files and restored them from Recycle Bin
+
+### 5.  Search for Files
+- Used the search bar in File Explorer to locate files by name and type
+
+## Steps Performed
+1. Opened File Explorer
+2. Navigated to Desktop and created AplusLab folder
+3. Accessed File Explorer options from the see more/view menu
+4. Enabled hidden files and file extensions 
+5. Practiced file operations like copy, move, delete
+6. Used the search bar to find specific files
+
+## Results
+- Successfully navigated the Windows file system and performed essential file management tasks.
+
+## Key takeaways
+- File Explorer is essential for managing system files and troubleshooting
+- Viewing file extensions helps identify file types and potential security risks
+- Knowing how to organize files improves efficiency
+
+## Skills Practiced
+- Windows Navigation
+- File management
+- System configuration
+- Troubleshooting basic file visibility issues
