@@ -6,3 +6,22 @@
 ## Lab Environment
 - Personally built computer
 - File Explorer
+
+## Tools Used
+- File Explorer
+- File Explorer Option
+
+## Tasks Completed
+
+### 1. Create and Organize Files and Folders
+- Created a new folder on the Desktop named "AplusLab"
+- Created subfolders for organization (Images,Documents, Reice's Org)
+- Renamed files and folders
+
+### 2. Show Hidden Files and Folders
+- Enabled "Show hidden files, folders, and drivers" in File Explorer Options
+- Verified hidden system files became visible
+
+### 3. Display File Extensions
+- Disabled "Hide extensions for known file types"
+- Confirmed file extensions were visible
