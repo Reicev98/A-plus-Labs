@@ -22,7 +22,7 @@ Identify and understand the function of core internal computer hardware componen
 - Hard Disk Drive(HDD): Mechanical and slower
 - Solid State Drive(SSD): Faster, no moving parts
 
-###4. Motherboard
+### 4. Motherboard
 - Main circuit board connecting all components
 - Communication between all components begins here
 
