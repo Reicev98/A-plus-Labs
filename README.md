@@ -13,6 +13,10 @@ My CompTIA A+ study labs and troubleshooting practice
 3. Basic Command Line Navigation
 4. Run Basic Network Commands
 5. Install & Configure a Virtual Machine
-
+6. Disk Management and Partitioning
+7. Create & Manage User Accounts
+8. Configure Windows Settings
+9. Network Troubleshooting Scenario
+10. Simulated Help Desk Ticket Lab
 
 
