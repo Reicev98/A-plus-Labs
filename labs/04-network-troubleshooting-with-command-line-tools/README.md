@@ -61,4 +61,22 @@ Displays IP configuration information
 - Ran > nslookup google.com
 - Verified domain resolved to an IP address
 
-### 5. 
+### 5. Simulate a Network Issue
+- Disabled network adapter
+- Ran > ping google.com
+- Observed "Could not find host" error
+
+### 6. Troubleshoot the Issue
+- Reenabled network adapter
+- Ran > ping google.com to verify
+
+## Results
+- Successfully used command line tools to verify connectivity, trace network paths, and resolve domain names
+
+## Issues Encountered 
+- Experienced "Could not find host during simulated network failure"
+
+## Resolution
+- Reenabled network adapter and restored network connection
+
+## Key Takeaways
