@@ -11,7 +11,7 @@ My CompTIA A+ study labs and troubleshooting practice
 1. Identify PC Hardware components
 2. Windows Navigation & File Management
 3. Basic Command Line Navigation
-4. Run Basic Network Commands
+4. Network Troubleshooting with Command Line Tools
 5. Install & Configure a Virtual Machine
 6. Disk Management and Partitioning
 7. Create & Manage User Accounts
