@@ -46,9 +46,9 @@
 
 ### 7. Remove a Directory
 - Navigated out of the folder
- - > cd ..
+  - > cd ..
 - Removed the directory
- - > rmdir Lab3Test
+  - > rmdir Lab3Test
 
 ## Results
 - Successfully created, navigated, and removed directories using Command Prompt.
