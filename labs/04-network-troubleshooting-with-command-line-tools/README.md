@@ -1,4 +1,4 @@
-# Lab 04 - Network Troubleshooting with Command Lines Tools
+# Lab 04 - Network Troubleshooting with Command Line Tools
 
 ## Objective
 - Use Windows command line tools to diagnose and troubleshoot network connectivity issues.
