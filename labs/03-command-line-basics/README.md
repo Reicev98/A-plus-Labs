@@ -53,3 +53,20 @@
 ## Results
 - Successfully created, navigated, and removed directories using Command Prompt.
 
+## Issues Encountered
+- Received an error when trying to delete a folder that had subfolders inside
+
+## Resolution
+- Performed the "rmdir /?" and learned of "rmdir /s" to remove folder with subfolders.
+
+## Key Takeaways
+- Command line navigation is essential for troubleshooting and system management
+- Understanding directory structure is critical in IT environments
+- CLI tools are faster and more efficient for certain administrative tasks
+
+## Skills Practiced
+- Command line navigation
+- File system management
+- Troubleshooting directory errors
+- Basic Windows administration
+
