@@ -74,7 +74,7 @@ Displays IP configuration information
 - Successfully used command line tools to verify connectivity, trace network paths, and resolve domain names
 
 ## Issues Encountered 
-- Experienced "Could not find host during simulated network failure"
+- Experienced "Could not find host" during simulated network failure
 
 ## Resolution
 - Reenabled network adapter and restored network connection
