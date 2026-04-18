@@ -51,7 +51,7 @@ Displays IP configuration information
 
 ### 2. Test Network Connectivity
 - Ran > ping google.com
-- COnfirmed successful replies and response times
+- Confirmed successful replies and response times
 
 ### 3. Trace Network Route
 - Ran > tracert google.com
