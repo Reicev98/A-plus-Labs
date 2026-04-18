@@ -41,7 +41,7 @@
   - > mkdir Folder 1
   - > mkdir Folder 2
 
-### 6. Verify Firectory Structure
+### 6. Verify Directory Structure
 - used "dir"
 
 ### 7. Remove a Directory
