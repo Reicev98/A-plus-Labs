@@ -80,3 +80,15 @@ Displays IP configuration information
 - Reenabled network adapter and restored network connection
 
 ## Key Takeaways
+- "ipconfig" helps verify local network configuration
+- "ping" confirms connectivity to external resources
+- "tracert" identifies where network issues may occur
+- "nslookup" verifies DNS resolution
+- "Netstat" shows all connections to devices and their ports
+-  These tools are essential for troubleshooting network issues in IT support roles
+
+## Skills Practiced
+- Network troubleshooting
+- Command line usage
+- DNS resolution understanding
+- Connectivity diagnostics
