@@ -1,4 +1,4 @@
-# Lab 05 - Virtual Machine Setup and Configuration
+# Lab 05 - Virtual Machine Setup and Configuration - CURRENT LAB
 
 ## Objective
 - Install and configure a virtual machine to simulate a real world IT environment for testing and troubleshooting
